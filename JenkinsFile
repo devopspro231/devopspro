@@ -3,7 +3,7 @@ pipeline{
   stages{
     stage('print '){
       steps{
-       echo "helloo"
+       echo "hell0oo"
     }
      }
   }
