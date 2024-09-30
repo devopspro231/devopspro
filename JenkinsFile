@@ -1,9 +1,11 @@
+
+@Library('shared-library') _
 pipeline{
  agent any
   stages{
     stage('print '){
       steps{
-       echo "heell0o"
+       sytem()
     }
      }
   }
